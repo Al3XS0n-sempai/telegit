@@ -5,10 +5,14 @@ Telegit is service that allows you to send repository updates notification to Te
 #  Roadmap
 ### Current targets
 1. Create base for telegram bot
-2. Create base for http-side of service
-3. Implement telegram bot.
+    - Add loger
+    - Add cutsom pooler for Telebot
+    - Add database
+2. Implement telegram bot.
+3. Create base for http-side of service
 4. Implement Http-server.
+5. Deploy
 
 ---
 ### Future plans
-5. Add option to subscribe without setting up webhook
+1. Add option to subscribe without setting up webhook
